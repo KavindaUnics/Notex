@@ -1,0 +1,1 @@
+alert('Welcome to Note Add Page!');
